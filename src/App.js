@@ -532,20 +532,17 @@ function App() {
 						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
 						<div class="content__nav-item" style={{ backgroundImage: `url(${Image31})` }}></div>
 						<div class="content__nav-item" style={{ backgroundImage: `url(${Image32})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item" style={{ backgroundImage: `url(${Image30})` }}></div>
-						<div class="content__nav-item"
-             style={{backgroundImage:'url(img/43.jpg)'}}>
-
-             </div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image33})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image34})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image35})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image36})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image37})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image38})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image39})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image40})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image41})` }}></div>
+						<div class="content__nav-item" style={{ backgroundImage: `url(${Image42})` }}></div>
+					<div class="content__nav-item" style={{ backgroundImage: `url(${Image43})` }}></div>
 					</div>
 				</nav>
 				<button class="unbutton button-back"><svg viewBox="0 0 50 9" width="100%"><path d="M0 4.5l5-3M0 4.5l5 3M50 4.5h-77"></path></svg></button>
